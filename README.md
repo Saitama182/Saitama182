@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Saitama182/Saitama182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm engineer and beginner frontend developer
 
-Here are some ideas to get you started:
+## My completed courses
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [JavaScript](https://stepik.org/cert/1708515).
+- [HTML и CSS](https://stepik.org/cert/1699979).
+
+## Languages and Tools
+![HTML](https://img.shields.io/badge/5-HTML-red)
+
+![CSS](https://img.shields.io/badge/3-CSS-blue)
+
+![JS](https://img.shields.io/badge/JS-javascript-yellow)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saitama182&show_icons=true&theme=radical)](https://github.com/Saitama182/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitama182&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
