@@ -6,6 +6,7 @@
 
 - [JavaScript](https://stepik.org/cert/1708515).
 - [HTML и CSS](https://stepik.org/cert/1699979).
+- [Java](https://javaops.ru/certificate/startjava?lang=en&email=onepiece182ezk1@gmail.com).
 
 ## Languages and Tools
 ![HTML](https://img.shields.io/badge/5-HTML-red)
